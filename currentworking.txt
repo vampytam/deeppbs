@@ -1,2 +1,5 @@
 https://github.com/zlr-zmm/PDNAPred
 https://github.com/biomed-AI/GraphSite
+https://github.com/YAndrewL/CLAPE
+https://github.com/yiheng-zhu/ULDNA
+https://github.com/sofiaaizen/PWMpredictor
